@@ -1,4 +1,4 @@
--- Credit: Discord Username: rolypoly4107 | Roblox Username: YourRobloxName
+-- Credit: Discord Username: rolypoly4107 | Roblox Username: peanutbuttersoogood
 
 local Renderer = {}
 Renderer.__index = Renderer
